@@ -402,7 +402,7 @@ column-gap: 50px;
 
 
 .anime-image{
-  border: 2px solid green;
+  // border: 2px solid green;
   width: 50wh;
   height: 65vh;
 
